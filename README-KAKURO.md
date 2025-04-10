@@ -16,7 +16,9 @@ Suppose this is our kakuro board:
 
 ## Screenshots
 
-![App Screenshot](https://www.researchgate.net/profile/Wiktor-Daniec/publication/344417396/figure/fig1/AS:941152291266561@1601399600326/Sample-kakuro-problem-of-size-5x5-with-its-unique-solution.ppm)
+(https://www.researchgate.net/profile/Wiktor-Daniec/publication/344417396/figure/fig1/AS:941152291266561@1601399600326/Sample-kakuro-problem-of-size-5x5-with-its-unique-solution.ppm)
+
+please open this link in another tab to see the board.
 
 Puzzle and its corresponding solution is given here
 
